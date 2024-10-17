@@ -8,7 +8,7 @@ Version:       1.0
 Release:       0.6.20120509SNAPSHOT.0%{?dist}
 Summary:       Commons Javaflow
 License:       ASL 2.0
-Url:           http://commons.apache.org/sandbox/javaflow/
+Url:           https://commons.apache.org/sandbox/javaflow/
 # svn export http://svn.apache.org/repos/asf/commons/sandbox/javaflow/trunk/  commons-javaflow-1.0-SNAPSHOT
 # tar czf commons-javaflow-1.0-SNAPSHOT-src-svn.tar.gz commons-javaflow-1.0-SNAPSHOT
 Source0:       %{short_name}-%{namedversion}-src-svn.tar.gz
